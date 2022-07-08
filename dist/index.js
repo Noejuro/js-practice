@@ -58,7 +58,7 @@ const newPalindrome = new Palindrome();
 // console.log(newPalindrome.validate('a'));
 // Question 9 - Still working on a solution
 const newLargestSubstring = new LargestSubstring();
-// console.log(newLargestSubstring.get('abcaabcbbaa'))
+// console.log(newLargestSubstring.getA('abcaabcbbaa'))
 // Question 10
 const newOccurrences = new Occurrences();
 // console.log(newOccurrences.get('abcaabcbbaabcabababbabcacbabcab', 'abc'));
